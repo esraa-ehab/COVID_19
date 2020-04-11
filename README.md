@@ -11,7 +11,7 @@ The first project of Data Science
 Download Anaconda3,then run the file. That's it.
 
 # Project Motivation
-Due to the current global circumstances, I believed that taking the "CoronaVirus" issue into consideration is a duty, and that people should know the seriousness of the current situation in order to take the necessary measures, so I wanted to discuss these questions:
+Due to the current global circumstances, I believed that taking the "CoronaVirus" issue into consideration is a duty, and that people should know the seriousness of the current situation in order to take the necessary measures, so I wanted to discuss these questions:<br>
 1.How does the virus spread ?<br>
 2.What is the virus's death rate ?<br>
 3.What is the virus's recovered rate ?<br>
