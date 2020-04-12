@@ -19,6 +19,7 @@ Due to the current global circumstances, I believed that taking the "CoronaVirus
 
 # File Descriptions
 This is a file about the "COCID-19 pandemic and some data analysis of the existing dataset and some introductions on how to stay safe.
+Check my post on Meduim on https://medium.com/@esraa.ehab37/covid-19-data-analysis-7b03d64ec18c
 
 # Licensing, Authors, Acknowledgements
 This project is under https://github.com/esraa-ehab/COVID-19/blob/master/LICENSE
